@@ -1,0 +1,11 @@
+team1 = input("Enter Team 1: ")
+team2 = input("Enter Team 2: ")
+player = input("Enter a football player's name: ")
+description = input("Enter one word to describe the player (e.g., unstoppable, brilliant, legendary): ")
+action = input("Enter a verb ending in -ing (e.g., dribbling, scoring, passing): ")
+
+print(f"\nYesterday I watched an exciting match between {team1} and {team2}.")
+print(f"{team2} completely dominated the game from start to finish.")
+print(f"The fans couldn't stop cheering because {player} was absolutely {description}!")
+print(f"{team1} couldn't even manage a single shot on target against {team2}.")
+print(f"If {player} had been {action} even more, the crowd would have gone wild!")
